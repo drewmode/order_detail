@@ -56,3 +56,8 @@ The analysis is seamlessly managed across three core environments within **CAPST
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[Your_Name]-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+
+## ⚡Screenshot of my work
+<img width="1907" height="983" alt="Screenshot 2026-05-28 192622" src="https://github.com/user-attachments/assets/51b08878-4b5f-4179-b10e-ef8f79aaabba" />
+
+
